@@ -1,18 +1,18 @@
 # This file contains the order and numbering for all sections in the book.
 #
 # It is a sample TOC file to help you get started. Fill it out with entries
-# for your own content.
+# for your own .
 #
 # Each entry has the following schema:
 #
 # - title: mytitle   # Title of chapter or section
-#   url: /myurl  # URL of section relative to the /content/ folder.
+#   url: /myurl  # URL of section relative to the // folder.
 #   sections:  # Contains a list of more entries that make up the chapter's sections
 #   not_numbered: true  # if the section shouldn't have a number in the sidebar
 #     (e.g. Introduction or appendices)
 #   expand_sections: true  # if you'd like the sections of this chapter to always
 #     be expanded in the sidebar.
-#   external: true  # Whether the URL is an external link or points to content in the book
+#   external: true  # Whether the URL is an external link or points to  in the book
 #
 # Below are some special values that trigger specific behavior:
 # - search: true  # Will provide a link to a search page
@@ -26,6 +26,70 @@
   url: /intro
   not_numbered: true
 
+- title: Physical site
+  url: /01physicalsite/whereweare
+  expand_sections: true
+  sections:
+  - title: Nairobi
+    url: /01physicalsite/nairobi/nairobicounty
+  - title: Kibera
+    url: /intro
+  - title: villages
+    url: /intro
+  - title: people
+    url: /intro
+  - title: economy
+    url: /intro
+  - title: Slum Removal
+    url: /intro
+
+- title: Kibera Town Centre
+  url: /intro
+  expand_sections: true
+  sections:
+  - title: People
+    url: /intro
+  - title: Community Center
+    url: /intro
+  - title: Major projects
+    url: /intro
+  - title: Major partners
+    url: /intro
+- title: Kibera Town Center Facilities
+  url: /03ktcfacilities/facilities
+  expand_sections: true
+  sections:
+  - title: Building
+    url: /03ktcfacilities/building/building
+  - title: Power
+    url: /intro
+  - title: Water
+    url: /intro
+
+  - title: Waste-Water Treatment
+    url: /intro
+  - title: Information Technology
+    url: /intro
+  - title: Sensor Networks
+    url: /03ktcfacilities/sensors/sensornets
+  - title: Structural Elements
+    url: /intro
+  - title: Construction History
+    url: /intro
+- title: KTC Ventures
+  url: /intro
+  sections:
+  - title: Training and Education
+    url: /intro
+  - title: Showers, Water, and Toilet
+    url: /intro
+  - title: Media Production
+    url: /intro
+
+
+
+
+
 # External link
 - title: GitHub repository
   url: https://github.com/jupyter/jupyter-book
@@ -36,10 +100,10 @@
 - title: Search
   search: true
 
-# Divider for meta-pages and content page
+# Divider for meta-pages and  page
 - divider: true
 
-# Add a header and sample content section
+# Add a header and sample  section
 - header: Demo textbook
 
 # A chapter w/ a collection of sections beneath it
