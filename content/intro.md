@@ -1,9 +1,16 @@
 # Kibera Town Centre
 <img src="https://circleci.com/gh/jupyter/jupyter-book.svg?style=svg" class="left">
 
-- We built it
+- Here's what the [Kibera Town Centre](http://kiberawater.com) looks like.
 
-[David Warner][David]
-[Chris Sutton][chris]
+[David Warner][David] and [Chris Sutton][chris] were the prime movers in building the KTC.  David supervised the architectural and engineering design, and Chris Sutton lived in Nairobi for two years supervising the construction.
+
+Over 400 Kibera workers formed the construction teams.
+
+
+
+
+
+
 [David]: http://redhorse.com/
 [chris]: https://redhorse.com
