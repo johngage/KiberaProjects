@@ -17,7 +17,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 Over 400 Kibera workers formed the construction teams.
 
-
+[August 2019 KTC Tanks and Sensors](/images/Kibera Town Centre Network2019Aug25.png)
 
 
 
