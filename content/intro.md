@@ -9,7 +9,7 @@ Over 400 Kibera workers formed the construction teams.
 
 [August 2019 KTC Tanks and Sensors](./images/Kibera Town Centre Network2019Aug25.png)
 
-
+[2017 KTC Tanks from SketchUp](./images/KTCwater2017.png)
 
 
 [David]: https://www.redhorseconstructors.com/
