@@ -16,14 +16,15 @@
 
 #######################################################################################
 # Jekyll site settings
-title: YOUR BOOK NAME
-author: YOUR AUTHOR NAME
-email: YOUR EMAIL
+title: Kibera Town Centre\: Nairobi, Kenya
+author: John Gage
+email: john.gage@gmail.com
 description: >-
-  This is an example book built with Jupyter Books.
+  Outline of a complete description of the Kibera Town Center project
+  Built by the Human Needs Project, beginning in 2010
 
-baseurl: /               # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
-url: YOUR URL              # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /KiberaProjects             # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
+url: https://johngage.github.io             # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #######################################################################################
