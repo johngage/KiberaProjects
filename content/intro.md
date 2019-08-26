@@ -12,5 +12,5 @@ Over 400 Kibera workers formed the construction teams.
 
 
 
-[David]: http://redhorse.com/
-[chris]: https://redhorse.com
+[David]: https://www.redhorseconstructors.com/
+[chris]: https://www.redhorseconstructors.com/
