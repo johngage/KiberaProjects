@@ -420,8 +420,8 @@ development, radio presenter training and experiential marketing.
 - Demand for KTC’s water services from the surrounding community continues to steadily
 grow.
 - Discussions are at advanced stages to supply water services to various institutions in
-Kibera i.e. Spurgeon Care School, Carolina for Kibera, Olympic Catholic Church, St.
-Vincent’s Rescue Centre and the Youth Reforms organization.
+Kibera i.e. **Spurgeon Care School**, [**Carolina for Kibera**](), [**Olympic Catholic Church**](), [St.
+Vincent’s Rescue Centre]() and the [Youth Reforms]() organization.
 - There are also ongoing discussions for KTC to provide water services to Karanja Estate.
 However this will be put on hold to await the findings of the water diagnostic to be
 carried out by **Water for People** and **Johns Hopkins University**.
@@ -482,7 +482,7 @@ system. Estimated Costs: **US$1,500**
 - E24 Inverter System Repairs: One of the E24 inverters is not working and the
 manufacturers have offered to get us a new one, at a cost. Getting a new inverter would
 increase our solar power production hence cutting down our electrical bill which
-currently stands at US$8,000 per month. There is also need to send the basic services
+currently stands at **US$8,000** per month. There is also need to send the basic services
 team to Lebanon for a refresher course. Estimated Cost: **US$ 8,000**
 
 - Generator Repairs urgently required: The generator is meant to be a part of the hybrid
