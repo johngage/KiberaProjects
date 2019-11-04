@@ -1,1 +1,5 @@
-// Put your custom javascript here
+//$(document).ready(function() {
+  $(".accordion").on("click", ".accordion-header", function() {
+    $(this).toggleClass("active").next().slideToggle();
+  });
+//});
